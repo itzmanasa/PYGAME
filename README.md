@@ -30,7 +30,7 @@ A simple 2-player space shooting game built using **Pygame** 🎮
 
 ## 📸 Screenshot
 
-![Gameplay Screenshot](screenshot.png.png)
+![Gameplay Screenshot](Screenshot.png)
 
 
 Install Pygame with:
