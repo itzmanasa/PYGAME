@@ -28,6 +28,11 @@ A simple 2-player space shooting game built using **Pygame** 🎮
 - Python 3.8+
 - [Pygame](https://www.pygame.org/news)
 
+## 📸 Screenshot
+
+![Gameplay Screenshot](screenshot.png)
+
+
 Install Pygame with:
 ```bash
 pip install pygame
